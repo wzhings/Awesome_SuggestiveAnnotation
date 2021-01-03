@@ -1,4 +1,4 @@
-# Awesome_SuggestiveAnnotation
+# Awesome Suggestive Annotation
 This is a paper list of suggestive annotation direction.  
 ---
 
